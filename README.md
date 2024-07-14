@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttuhina 
 - 👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.
-- 🌱 I’m currently learning the art of turning caffeine into code with Express.js and exploring the infinite possibilities of web development.
+- 🌱 I’m learning development using the MERN stack.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and creativity, aiming to make a meaningful impact.
 - 📫 Feel free to contact me via email at tuhinac2004@gmail.com for professional inquiries and collaborations.
 - 😄 Pronouns: she/her
