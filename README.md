@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and creativity, aiming to make a meaningful impact.
 - 📫 Feel free to contact me via email at tuhinac2004@gmail.com for professional inquiries and collaborations.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:  I love my VS Code pets and they are very much real to me (they give me emotional support and motivation to keep coding)
+- ⚡ Fun fact:  I love my VS Code pets and they are very much real to me 
 - 💞️ skills:  HTML, CSS, JavaScript, Node.js, Express.js, Chatbot development using Microsoft Bot Framework, MongoDB, SQL, Arduino, C, C++, Python, and Java.
 
 <!---
