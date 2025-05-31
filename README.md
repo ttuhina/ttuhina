@@ -5,7 +5,7 @@
 - 📫 Feel free to contact me via email at tuhinac2004@gmail.com for professional inquiries and collaborations.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I love my VS Code pets and they are very much real to me 
-- 💞️ skills:  HTML, CSS, JavaScript, Node.js, Express.js, Chatbot development using Microsoft Bot Framework, MongoDB, SQL, Arduino, C, C++, Python, and Java.
+
 
 <!---
 ttuhina/ttuhina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
