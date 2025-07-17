@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em;">
-hi, i'm tuhina 👋
+hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <table width="100%">
@@ -30,9 +30,9 @@ hi, i'm tuhina 👋
 
 🔥 My Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttuhina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tuhina's GitHub Stats" height="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttuhina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tuhina's GitHub Stats" height="180px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://leetcard.jacoblin.cool/ttuhina?theme=dark&font=Verdana&background=282c34" alt="Tuhina's LeetCode Stats" height="270px"/>
+<img align="center" src="https://leetcard.jacoblin.cool/ttuhina?theme=dark&font=Verdana&background=282c34" alt="Tuhina's LeetCode Stats" height="180px"/>
 </p>
 
 💻 My Tech Stack
