@@ -1,7 +1,5 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg" style="text-decoration: none;">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DBrush%2BScript%2BMT%26size%3D80%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26color%3DFFFFFF%26lines%3Dhi,%2Bi%27m%2Btuhina%2B%25F0%259F%2591%258B" alt="Typing SVG" style="filter: drop-shadow(0.5px 0.5px 1px rgba(0,0,0,1)) drop-shadow(-0.5px -0.5px 1px rgba(0,0,0,1));" />
-</a>
+<h1 align="center" style="font-size: 3em;">
+hi, i'm tuhina 👋
 </h1>
 
 <table width="100%">
