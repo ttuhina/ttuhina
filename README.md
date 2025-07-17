@@ -43,3 +43,4 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,vscode,c,java,py" alt="My Tech Stack" width="100%"/>
 </p>
+![snake gif](https://github.com/ttuhina/ttuhina/blob/output/github-snake.svg)
