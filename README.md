@@ -1,11 +1,15 @@
 <h1 align="center" style="font-size: 3em;">
 hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 <h3>🚀 About Me</h3>
 <p>
-- 👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.<br>
-- 💞️ I’m looking to collaborate on projects that push the boundaries of technology and creativity.<br>
-- ⚡ Fun fact: I love my VS Code pets and they are very much real to me :)
+-👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.<br>
+-💞️ I’m looking to collaborate on projects that push the boundaries of technology and creativity.<br>
+-⚡ Fun fact: I l;ove my VS Cpde pets and they are very much real to me :)<br>
 </p>
 </td>
 <td width="35%" valign="top" align="center">
