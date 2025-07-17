@@ -45,7 +45,6 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 <h3 align="center">🐍 contributions </h3>
 <p align="center">
   <img src="https://github.com/ttuhina/ttuhina/raw/output/github-snake-dark.svg" alt="github contribution snake" />
