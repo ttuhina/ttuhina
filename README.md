@@ -9,7 +9,7 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 <p>
 -👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.<br>
 -💞️ I’m looking to collaborate on projects that push the boundaries of technology and creativity.<br>
--⚡ Fun fact: I l;ove my VS Cpde pets and they are very much real to me :)<br>
+-⚡ Fun fact: I love my VS Code pets and they are very much real to me :)<br>
 </p>
 </td>
 <td width="35%" valign="top" align="center">
