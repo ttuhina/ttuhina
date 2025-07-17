@@ -1,16 +1,15 @@
 <h1 align="center" style="font-size: 3em;">
 hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
 <h3>🚀 About Me</h3>
-<ul>
-<li>👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.</li>
-<li>💞️ I’m looking to collaborate on projects that push the boundaries of technology and creativity.</li>
-<li>⚡ Fun fact: My VS Code pets are my most loyal coding companions!</li>
-</ul>
+<p>
+- 👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.<br>
+- 💞️ I’m looking to collaborate on projects that push the boundaries of technology and creativity.<br>
+- ⚡ Fun fact: I love my VS Code pets and they are very much real to me :)
+</p>
 </td>
 <td width="35%" valign="top" align="center">
 <p>🌱 I’m currently diving deep into the <b>MERN stack</b> and building innovative <b>IoT projects</b>.</p>
@@ -28,14 +27,18 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 </tr>
 </table>
 
-🔥 My Stats
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<h3 align="center" style="font-size: 1.5em;">📈 my stats</h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttuhina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tuhina's GitHub Stats" height="169px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://leetcard.jacoblin.cool/ttuhina?theme=dark&font=Verdana&background=282c34" alt="Tuhina's LeetCode Stats" height="166px"/>
 </p>
 
-💻 My Tech Stack
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<h3 align="center" style="font-size: 1.5em;">💻 my tech stack</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,vscode,c,java,py" alt="My Tech Stack" width="100%"/>
 </p>
