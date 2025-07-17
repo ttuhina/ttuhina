@@ -1,10 +1,6 @@
 <h1 align="center" style="font-size: 3em;">
 hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-![snake gif](https://raw.githubusercontent.com/ttuhina/ttuhina/output/github-contribution-grid-snake.svg)
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
 <h3>🚀 About Me</h3>
 <p>
 - 👀 I’m interested in unraveling the mysteries of code, re-watching every Quentin Tarantino movie, and occasionally pondering the meaning of semicolons.<br>
