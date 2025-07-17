@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 3.5em;">
+<h1 align="center">
 <a href="https://git.io/typing-svg" style="text-decoration: none;">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DBrush%2BScript%2BMT%26size%3D80%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26color%3DFFFFFF%26lines%3DHey,%2BI%27m%2BTuhina+:)" alt="Typing SVG" style="filter: drop-shadow(0.5px 0.5px 1px rgba(0,0,0,1)) drop-shadow(-0.5px -0.5px 1px rgba(0,0,0,1));" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DBrush%2BScript%2BMT%26size%3D80%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26color%3DFFFFFF%26lines%3Dhi,%2Bi%27m%2Btuhina%2B%25F0%259F%2591%258B" alt="Typing SVG" style="filter: drop-shadow(0.5px 0.5px 1px rgba(0,0,0,1)) drop-shadow(-0.5px -0.5px 1px rgba(0,0,0,1));" />
 </a>
 </h1>
 
@@ -32,7 +32,7 @@
 
 🔥 My Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttuhina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tuhina's GitHub Stats" height="280px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttuhina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tuhina's GitHub Stats" height="300px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://leetcard.jacoblin.cool/ttuhina?theme=dark&font=Verdana&background=282c34" alt="Tuhina's LeetCode Stats" height="270px"/>
 </p>
