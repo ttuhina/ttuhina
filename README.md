@@ -42,6 +42,9 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 <h3 align="center" style="font-size: 1.5em;">💻 my tech stack</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,vscode,c,java,py" alt="My Tech Stack" width="100%"/>
+
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+  
 </p><h3 align="center">🐍 contributions </h3>
 <p align="center">
   <img src="https://github.com/ttuhina/ttuhina/raw/output/github-snake.svg" alt="github contribution snake" />
