@@ -15,7 +15,7 @@ hi, i'm tuhina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHei
 <td width="35%" valign="top" align="center">
 <p>🌱 I’m currently diving deep into the <b>MERN stack</b> and building innovative <b>IoT projects</b>.</p>
 <p>
-<a href="https://www.linkedin.com/in/tuhina-chakravarti-7703562aa/" target="_blank">
+<a href="https://www.linkedin.com/in/tuhina-chakravarti-in/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
